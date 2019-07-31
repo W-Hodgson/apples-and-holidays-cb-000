@@ -55,6 +55,7 @@ def all_winter_holiday_supplies(holiday_hash)
       end
     end
   end
+  puts all_supplies.flatten
   all_supplies.flatten
 end
 
